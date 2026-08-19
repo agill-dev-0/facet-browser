@@ -1,2 +1,2 @@
-# facet ( WIP )
+# facet
 A PBR rendering lib.
